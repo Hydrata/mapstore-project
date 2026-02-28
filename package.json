@@ -1,6 +1,6 @@
 {
   "name": "@mapstore/project",
-  "version": "master",
+  "version": "0.0.0-geonode-5.0.x",
   "description": "create a mapstore project",
   "browserslist": {
     "production": [
